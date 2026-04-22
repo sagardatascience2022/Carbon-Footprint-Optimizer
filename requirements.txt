@@ -3,4 +3,5 @@ joblib
 folium
 streamlit-folium
 openrouteservice
+geopy
 pandas
