@@ -1,5 +1,6 @@
 streamlit
 joblib
 folium
+streamlit-folium
 openrouteservice
 pandas
